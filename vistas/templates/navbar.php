@@ -1,6 +1,6 @@
-<nav class="navbar fixed-top navbar-expand-lg bg-light">
+<nav class="navbar fixed-top navbar-expand-lg bg-secondary">
   <div class="container-fluid">
-    <a class="navbar-brand" href="../../vistas/cliente/index.php"><img src="../../images/iconocli.png" alt="Logo" width="30" height="30">CLIENTES</a>
+    <a class="navbar-brand" href="../../vistas/cliente/index.php"><i class="bi bi-person-circle"></i>CLIENTES</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -14,8 +14,8 @@
             <i class="bi bi-file-person me-2"></i>CLIENTES
           </a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="../../vistas/cliente/index.php"><i class="bi bi-plus-circle me-2"></i>CREAR</a></li>
-            <li><a class="dropdown-item" href="../cliente/buscar.php"><i class="bi bi-search me-2"></i>BUSCAR</a></li>
+            <li><a class="dropdown-item bg-secondary" href="../../vistas/cliente/index.php"><i class="bi bi-plus-circle me-2"></i>CREAR</a></li>
+            <li><a class="dropdown-item bg-secondary" href="../../vistas/cliente/buscar.php"><i class="bi bi-search me-2"></i>BUSCAR</a></li>
           </ul>
         </li>
     </div>
