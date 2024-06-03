@@ -11,4 +11,3 @@
 <body>
 <?php include_once '../../vistas/templates/navbar.php'?>
 <div class="container mt-5 pt-5">
-
